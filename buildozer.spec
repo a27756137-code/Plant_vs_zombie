@@ -4,7 +4,7 @@
 title = Plants vs Zombies Ultimate
 
 # (str) Имя пакета без пробелов и заглавных букв
-package.name = pvzultimate
+package.name = plant_vs_zombie_0.3.py
 
 # (str) Домен пакета
 package.domain = org.pvz
